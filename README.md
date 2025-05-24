@@ -1,4 +1,4 @@
-Inventory-Analysis
+# Inventory-Analysis
 
 This SQL-based project focuses on the analysis of inventory operations across multiple stores, aiming to uncover inefficiencies, quantify stockout-related losses, assess vendor reliability, and recommend optimal inventory management practices. The core objective is to help businesses reduce lost revenue from stockouts, optimize reorder behavior, and determine safety stock levels based on demand and lead time variability. The data was simulated using Python.
 
