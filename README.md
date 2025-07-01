@@ -15,7 +15,7 @@ Concepts Used:
 WINDOW FUNCTIONS, JOINs, CTEs, CASE, DATEDIFF, IFNULL, POW, STDDEV.
 
 Summary of Insights:
-1. Profit Impact: The company lost about 15% of profit due to stockouts. 65% of this lost profit was associated with stockouts that occurred after inventory fell below the reorder point. 
+1. Profit Impact: The company lost about 15% of profit due to stockouts. 65% of this lost profit was associated with stockouts that occurred because orders were placed after inventory fell below the reorder point. 
 2. ABC Classification: 39% of items contribute 80% of profit and deserve the highest service level.
 3. Reorder Behavior: Majority of the orders in all stores were made below reorder point. Highest being 89% of all orders for a particular store.  
 4. Vendor-Level Insights: Certain vendors were highly inconsistent when it comes to delivery times. These vendors require attention or renegotiation.
